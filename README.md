@@ -15,6 +15,15 @@ cd dwm-html
 ```
 Open the index.html file with one of the following browsers.
 
+## Usage
+There are 6 root variables, change them in the styles file or in the dev tools:
+- normal foreground (--nrm-fg)
+- selected foreground (--sel-fg)
+- normal background (--nrm-bg)
+- selected background (--sel-bg)
+- normal border (--nrm-bd)
+- selected border (--sel-bd)
+
 ## Support
 This is a general grid and flexbox browser support, check yours.
 |Browser|Version|
@@ -27,7 +36,7 @@ This is a general grid and flexbox browser support, check yours.
 
 ## To do
 I don't know if I want to add a dynamic color change with JavaScript, I like
-the concept of a static page with changes in the development tools.
+the concept of a static page with changes in the dev tools.
 
 ## dwm
 <https://dwm.suckless.org/>
