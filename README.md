@@ -7,6 +7,7 @@ customization purposes.
 ![pink](images/pink.png)
 ![green](images/green.png)
 ![blue](images/blue.png)
+![blue small](images/blue-sm.png)
 
 ## Installation
 ```sh
