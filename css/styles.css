@@ -146,7 +146,7 @@
   -ms-grid-rows: 1fr 1fr;
   -ms-grid-columns: 1.22fr 1fr;
   grid-template: 1fr 1fr / 1.22fr 1fr;
-  height: calc(100% - 19px);
+  height: calc(100vh - 19px);
 }
 
 .window {
