@@ -14,7 +14,7 @@ customization purposes.
 git clone https://github.com/dreadsd/dwm-html.git
 cd dwm-html
 ```
-Open the index.html file with [one of the following browsers](https://github.com/dreadsd/dwm-html/blob/main/README.md#support).
+Open the index.html file with [one of the following browsers](https://github.com/dreadsd/dwm-html#support).
 
 ## Usage
 There are 6 root variables, change them in the styles file or in the dev tools:
